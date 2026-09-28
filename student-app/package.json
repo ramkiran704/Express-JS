@@ -1,0 +1,33 @@
+{
+<<<<<<< HEAD
+  "name": "student-app",
+=======
+  "name": "express-tutorial",
+>>>>>>> 168fbc72def1b774581bbf812fba769067f4c692
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+<<<<<<< HEAD
+    "test": "echo \"Error: no test specified\" && exit 1"
+=======
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "nodemon ./src/index.js",
+    "start": "node ./src/index.js"
+>>>>>>> 168fbc72def1b774581bbf812fba769067f4c692
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+<<<<<<< HEAD
+  "type": "commonjs",
+=======
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "type": "module",
+>>>>>>> 168fbc72def1b774581bbf812fba769067f4c692
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
